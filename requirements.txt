@@ -1,0 +1,6 @@
+bs4==0.0.1
+lxml==4.5.0
+prettytable==0.7.2
+twilio==6.35.5
+python-dotenv==0.11.0
+requests==2.22.0
